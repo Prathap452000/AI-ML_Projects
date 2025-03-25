@@ -31,17 +31,14 @@ Ensure you have the following installed on your system:
 ### Running the Assistant
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/amigo-assistant.git
+   git clone https://github.com/AI_ML-Projects/Conversational_Companion.git
    ```
 2. Navigate to the project directory:
    ```sh
    cd amigo-assistant
    ```
-3. Run the script:
-   ```sh
-   python amigo.py
    ```
-4. Start speaking and enjoy your assistant! 🎤
+3. Start speaking and enjoy your assistant! 🎤
 
 ---
 
